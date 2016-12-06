@@ -1,13 +1,13 @@
 {
-  "name": "slack-test",
-  "version": "1.0.0",
+  "name": "slog",
+  "version": "0.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Caleb Thorsteinson",
+  "license": "MIT",
   "dependencies": {
     "@slack/client": "^3.6.1",
     "lodash": "^4.17.2",
